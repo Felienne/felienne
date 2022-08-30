@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Hedy, a multi-lingual gradual programming language for learners
-- 📚 I wrote [felienne.com/book](The Programmer's Brain), a book about programming and cognition.
+- 🔭 I’m currently working on [Hedy](hedy.org), a multi-lingual gradual programming language for learners
+- 📚 I wrote [The Programmer's Brain](felienne.com/book), a book published by Manning, about learning and teaching programming.
 - 😄 Pronouns: she/her
 
 <!--
